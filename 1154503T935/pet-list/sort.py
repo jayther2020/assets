@@ -3,7 +3,7 @@ import json
 
 image_files = []
 
-for file in os.listdir():
+for file in sorted(os.listdir()):
     if file.endswith(".jpg") or file.endswith(".png") or file.endswith(".gif"):
         image_files.append(file)
 
@@ -14,14 +14,15 @@ image_map = list(zip(names,image_files))
 print(image_map)
 
 result = list(map(lambda f:{
-    "name":f[0],
+    "id":f[0]+1,
+    "name":f[1][0],
     "isNew":False,
     "isOriginal":False,
     "hasOtherForm":False,
     "hasOtherConcept":False,
     'type':None,
-    'picUrl':f[1],
-    }, image_map))
+    'picUrl':f[1][1],
+    }, list(enumerate(image_map))))
 
 print(result[0])
 

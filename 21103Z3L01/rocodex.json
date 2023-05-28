@@ -1,1010 +1,1122 @@
 [
   {
-    "name": "\u55b5\u55b5",
+    "id": 1,
+    "name": "喵喵",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jc9b2oj30n00aoweu_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jc9b2oj30n00aoweu_01.png?raw=true"
   },
   {
-    "name": "\u55b5\u545c",
+    "id": 2,
+    "name": "喵呜",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jc9b2oj30n00aoweu_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jc9b2oj30n00aoweu_02.png?raw=true"
   },
   {
-    "name": "\u706b\u82b1",
+    "id": 3,
+    "name": "火花",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jckenbj30n00ao3yy_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jckenbj30n00ao3yy_01.png?raw=true"
   },
   {
-    "name": "\u7130\u706b",
+    "id": 4,
+    "name": "焰火",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jckenbj30n00ao3yy_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jckenbj30n00ao3yy_02.png?raw=true"
   },
   {
-    "name": "\u6076\u9b54\u53ee",
+    "id": 5,
+    "name": "恶魔叮",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jcsh0uj30n00ao0t2_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jcsh0uj30n00ao0t2_01.png?raw=true"
   },
   {
-    "name": "\u53ee\u53ee\u6076\u9b54",
+    "id": 6,
+    "name": "叮叮恶魔",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jcsh0uj30n00ao0t2_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jcsh0uj30n00ao0t2_02.png?raw=true"
   },
   {
-    "name": "\u8349\u5934\u5927\u773c\u9e2d",
+    "id": 7,
+    "name": "草头大眼鸭",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jd5g68j30n00aoaa8_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jd5g68j30n00aoaa8_01.png?raw=true"
   },
   {
-    "name": "\u9e2d\u5409\u5409\uff08\u80a5\u80d6\u5f62\u6001\uff09",
+    "id": 8,
+    "name": "鸭吉吉（肥胖形态）",
+    "isNew": false,
+    "isOriginal": false,
+    "hasOtherForm": true,
+    "hasOtherConcept": false,
+    "type": null,
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jd5g68j30n00aoaa8_02.png?raw=true"
+  },
+  {
+    "id": 9,
+    "name": "蒲公英",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jd5g68j30n00aoaa8_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jdesdsj30n00aowez_01.png?raw=true"
   },
   {
-    "name": "\u84b2\u516c\u82f1",
+    "id": 10,
+    "name": "大蒲公英",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jdesdsj30n00aowez_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jdesdsj30n00aowez_02.png?raw=true"
   },
   {
-    "name": "\u5927\u84b2\u516c\u82f1",
+    "id": 11,
+    "name": "奇丽草",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jdesdsj30n00aowez_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jegl45j30n00aot8x_01.png?raw=true"
   },
   {
-    "name": "\u5947\u4e3d\u8349",
+    "id": 12,
+    "name": "奇丽叶",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jegl45j30n00aot8x_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jegl45j30n00aot8x_02.png?raw=true"
   },
   {
-    "name": "\u5947\u4e3d\u53f6",
+    "id": 13,
+    "name": "奇丽花",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jegl45j30n00aot8x_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jf0dvmj30n00ao74k_01.png?raw=true"
   },
   {
-    "name": "\u5947\u4e3d\u82b1",
+    "id": 14,
+    "name": "丢丢",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jf0dvmj30n00ao74k_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jf0dvmj30n00ao74k_02.png?raw=true"
   },
   {
-    "name": "\u4e22\u4e22",
+    "id": 15,
+    "name": "卡卡虫",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jf0dvmj30n00ao74k_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jf9u0zj30n00aoq3c_01.png?raw=true"
   },
   {
-    "name": "\u5361\u5361\u866b",
+    "id": 16,
+    "name": "魔草巫灵",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jf9u0zj30n00aoq3c_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jf9u0zj30n00aoq3c_02.png?raw=true"
   },
   {
-    "name": "\u9b54\u8349\u5deb\u7075",
+    "id": 17,
+    "name": "幽灵脸",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jf9u0zj30n00aoq3c_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jfnqv6j30n00ao74j_01.png?raw=true"
   },
   {
-    "name": "\u5e7d\u7075\u8138",
+    "id": 18,
+    "name": "蹦蹦种子",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jfnqv6j30n00ao74j_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0jfnqv6j30n00ao74j_02.png?raw=true"
   },
   {
-    "name": "\u8e66\u8e66\u79cd\u5b50",
+    "id": 19,
+    "name": "蹦蹦草",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0jfnqv6j30n00ao74j_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k1vyqlj30n00aomxp_01.png?raw=true"
   },
   {
-    "name": "\u8e66\u8e66\u8349",
+    "id": 20,
+    "name": "蹦蹦花",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k1vyqlj30n00aomxp_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k1vyqlj30n00aomxp_02.png?raw=true"
   },
   {
-    "name": "\u8e66\u8e66\u82b1",
+    "id": 21,
+    "name": "小黄蜂",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k1vyqlj30n00aomxp_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k25mqfj30n00aodg4_01.png?raw=true"
   },
   {
-    "name": "\u4f0a\u8d1d\u513f",
+    "id": 22,
+    "name": "黄蜂后",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k25mqfj30n00aodg4_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k25mqfj30n00aodg4_02.png?raw=true"
   },
   {
-    "name": "\u4f0a\u8d1d\u7c89\u7c89",
+    "id": 23,
+    "name": "伊贝儿",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k25mqfj30n00aodg4_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k2eomkj30n00ao0sw_01.png?raw=true"
   },
   {
-    "name": "\u677f\u677f\u58f3",
+    "id": 24,
+    "name": "伊贝粉粉",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k2eomkj30n00ao0sw_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k2eomkj30n00ao0sw_02.png?raw=true"
   },
   {
-    "name": "\u5494\u5494\u58f3",
+    "id": 25,
+    "name": "板板壳",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k2eomkj30n00ao0sw_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k2ngt9j30n00aoq39_01.png?raw=true"
   },
   {
-    "name": "\u6c34\u6ce1\u58f3",
+    "id": 26,
+    "name": "咔咔壳",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k2ngt9j30n00aoq39_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k2ngt9j30n00aoq39_02.png?raw=true"
   },
   {
-    "name": "\u9b54\u529b\u55b5",
+    "id": 27,
+    "name": "水泡壳",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k2ngt9j30n00aoq39_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k2zcr5j30n00aoq3p_01.png?raw=true"
   },
   {
-    "name": "\u963f\u7c73\u4e9a\u7279",
+    "id": 28,
+    "name": "魔力喵",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k2zcr5j30n00aoq3p_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k2zcr5j30n00aoq3p_02.png?raw=true"
   },
   {
-    "name": "\u963f\u7c73\u6a31",
+    "id": 29,
+    "name": "阿米亚特",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k2zcr5j30n00aoq3p_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k3cbp2j30n00aowew_01.png?raw=true"
   },
   {
-    "name": "\u7f57\u9690",
+    "id": 30,
+    "name": "阿米樱",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k3cbp2j30n00aowew_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k3cbp2j30n00aowew_02.png?raw=true"
   },
   {
-    "name": "\u5c16\u5634\u72d0\u4ed9",
+    "id": 31,
+    "name": "罗隐",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k3cbp2j30n00aowew_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k3kf1qj30n00ao3z8_01.png?raw=true"
   },
   {
-    "name": "\u5723\u5149\u706b\u5a03",
+    "id": 32,
+    "name": "尖嘴狐仙",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k3kf1qj30n00ao3z8_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k3kf1qj30n00ao3z8_02.png?raw=true"
   },
   {
-    "name": "\u6bdb\u6bdb",
+    "id": 33,
+    "name": "护主犬",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k3kf1qj30n00ao3z8_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k470hrj30n00aoaab_01.png?raw=true"
   },
   {
-    "name": "\u5c0f\u9ec4\u8702",
+    "id": 34,
+    "name": "治愈火娃",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k470hrj30n00aoaab_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k470hrj30n00aoaab_02.png?raw=true"
   },
   {
-    "name": "\u9ec4\u8702\u540e",
+    "id": 35,
+    "name": "圣光火娃",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k470hrj30n00aoaab_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k4hc9uj30n00aomxf_01.png?raw=true"
   },
   {
-    "name": "\u62a4\u4e3b\u72ac",
+    "id": 36,
+    "name": "毛毛",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k4hc9uj30n00aomxf_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0k4hc9uj30n00aomxf_02.png?raw=true"
   },
   {
-    "name": "\u6cbb\u6108\u706b\u5a03",
-    "isNew": false,
-    "isOriginal": false,
-    "hasOtherForm": false,
-    "hasOtherConcept": false,
-    "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0k4hc9uj30n00aomxf_02.png"
-  },
-  {
+    "id": 37,
     "name": "LULU",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kinv3lj30n00aoaac_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kinv3lj30n00aoaac_01.png?raw=true"
   },
   {
-    "name": "\u9e2d\u5409\u5409\uff08\u7626\u5c0f\u5f62\u6001\uff09",
+    "id": 38,
+    "name": "鸭吉吉（瘦小形态）",
     "isNew": false,
     "isOriginal": false,
-    "hasOtherForm": false,
+    "hasOtherForm": true,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kinv3lj30n00aoaac_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kinv3lj30n00aoaac_02.png?raw=true"
   },
   {
-    "name": "\u53ef\u7acb\u9e21",
+    "id": 39,
+    "name": "可立鸡",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kiygn3j30n00aodg7_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kiygn3j30n00aodg7_01.png?raw=true"
   },
   {
-    "name": "\u706b\u523a\u773c\u8725\u8734",
+    "id": 40,
+    "name": "火刺眼蜥蜴",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kiygn3j30n00aodg7_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kiygn3j30n00aodg7_02.png?raw=true"
   },
   {
-    "name": "\u7164\u7403\u61a8\u61a8",
+    "id": 41,
+    "name": "煤球憨憨",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kj8braj30n00aomxi_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kj8braj30n00aomxi_01.png?raw=true"
   },
   {
-    "name": "\u706b\u5c3e\u74e6\u7279",
+    "id": 42,
+    "name": "火尾瓦特",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kj8braj30n00aomxi_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kj8braj30n00aomxi_02.png?raw=true"
   },
   {
-    "name": "\u5c0f\u5e15\u5c14\u8428\u65af",
+    "id": 43,
+    "name": "小帕尔萨斯",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kjj0h3j30n00ao3z1_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kjj0h3j30n00ao3z1_01.png?raw=true"
   },
   {
-    "name": "\u5e15\u5c14\u8428\u65af",
+    "id": 44,
+    "name": "帕尔萨斯",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kjj0h3j30n00ao3z1_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kjj0h3j30n00ao3z1_02.png?raw=true"
   },
   {
-    "name": "\u5494\u5494\u7fbd\u6bdb",
+    "id": 45,
+    "name": "咔咔羽毛",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kjsovgj30n00aowes_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kjsovgj30n00aowes_01.png?raw=true"
   },
   {
-    "name": "\u5c0f\u72ee\u9e6b",
+    "id": 46,
+    "name": "小狮鹫",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
-    "hasOtherConcept": false,
+    "hasOtherConcept": true,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kjsovgj30n00aowes_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kjsovgj30n00aowes_02.png?raw=true"
   },
   {
-    "name": "1",
-    "isNew": false,
+    "id": 47,
+    "name": "冬羽雀",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kre83pj30n00aojrt_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kre83pj30n00aojrt_01.png?raw=true"
   },
   {
-    "name": "\u6076\u9b54\u72fc",
-    "isNew": false,
+    "id": 48,
+    "name": "恶魔狼",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0kre83pj30n00aojrt_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0kre83pj30n00aojrt_02.png?raw=true"
   },
   {
-    "name": "\u6625\u5154",
-    "isNew": false,
-    "isOriginal": false,
+    "id": 49,
+    "name": "春兔",
+    "isNew": true,
+    "isOriginal": true,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0krmcezj30n00aoaaj_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0krmcezj30n00aoaaj_01.png?raw=true"
   },
   {
-    "name": "2",
-    "isNew": false,
+    "id": 50,
+    "name": "岚鸟",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0krmcezj30n00aoaaj_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0krmcezj30n00aoaaj_02.png?raw=true"
   },
   {
-    "name": "\u539f\u521b\u7cbe\u70753",
-    "isNew": false,
+    "id": 51,
+    "name": "原创毒精灵",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0krx0v1j30n00aoq38_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0krx0v1j30n00aoq38_01.png?raw=true"
   },
   {
-    "name": "4",
-    "isNew": false,
+    "id": 52,
+    "name": "冬羽雀小形态",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h1g0krx0v1j30n00aoq38_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h1g0krx0v1j30n00aoq38_02.png?raw=true"
   },
   {
-    "name": "\u51b0\u6676\u98ce\u66b4\u864e",
+    "id": 53,
+    "name": "音速犬",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h36aka3dd6j30n00aojrx_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h36aka3dd6j30n00aojrx_01.png?raw=true"
   },
   {
-    "name": "\u963f\u5e03",
+    "id": 54,
+    "name": "波波拉",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h36aka3dd6j30n00aojrx_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h36aka3dd6j30n00aojrx_02.png?raw=true"
   },
   {
-    "name": "\u767d\u53d1\u8def\u8def",
+    "id": 55,
+    "name": "水灵",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h36akai009j30n00aojs6_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h36akai009j30n00aojs6_01.png?raw=true"
   },
   {
-    "name": "\u62c9\u7279",
+    "id": 56,
+    "name": "火神",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h36akai009j30n00aojs6_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h36akai009j30n00aojs6_02.png?raw=true"
   },
   {
-    "name": "\u9177\u62c9",
+    "id": 57,
+    "name": "冰虎宝宝",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h36akarzlyj30n00aomxm_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h36akarzlyj30n00aomxm_01.png?raw=true"
   },
   {
-    "name": "\u683c\u5170\u79cd\u5b50",
+    "id": 58,
+    "name": "冰晶幼虎",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h36akarzlyj30n00aomxm_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h36akarzlyj30n00aomxm_02.png?raw=true"
   },
   {
-    "name": "\u5446\u5c0f\u8def",
+    "id": 59,
+    "name": "冰晶风暴虎",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h3w3k3idstj30n00ao74t_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h3w3k3idstj30n00ao74t_01.png?raw=true"
   },
   {
-    "name": "\u821e\u52a8\u8def\u8def",
+    "id": 60,
+    "name": "阿布",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h3w3k3idstj30n00ao74t_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h3w3k3idstj30n00ao74t_02.png?raw=true"
   },
   {
-    "name": "\u679c\u51bb",
+    "id": 61,
+    "name": "呆小路",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h6ghg45cy0j30n00aomxh_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h6ghg45cy0j30n00aomxh_01.png?raw=true"
   },
   {
-    "name": "\u5c0f\u5e03\u77f3",
+    "id": 62,
+    "name": "舞动路路",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h6ghg45cy0j30n00aomxh_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h6ghg45cy0j30n00aomxh_02.png?raw=true"
   },
   {
-    "name": "\u739b\u96c5\u4e4b\u661f",
+    "id": 63,
+    "name": "白发路路",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h6ghg4i20uj30n00aojrt_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h6ghg4i20uj30n00aojrt_01.png?raw=true"
   },
   {
-    "name": "\u739b\u96c5\u77f3\u50cf\u9b3c",
+    "id": 64,
+    "name": "拉特",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h6ghg4i20uj30n00aojrt_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h6ghg4i20uj30n00aojrt_02.png?raw=true"
   },
   {
-    "name": "\u5730\u9f20",
+    "id": 65,
+    "name": "酷拉",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h6ghg4tpibj30n00aomxl_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h6ghg4tpibj30n00aomxl_01.png?raw=true"
   },
   {
-    "name": "\u739b\u96c5",
+    "id": 66,
+    "name": "格兰种子",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h6ghg4tpibj30n00aomxl_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h6ghg4tpibj30n00aomxl_02.png?raw=true"
   },
   {
-    "name": "\u4f0f\u5730\u517d",
+    "id": 67,
+    "name": "果冻",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h6ghg54o4ej30n00aot8v_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h6ghg54o4ej30n00aot8v_01.png?raw=true"
   },
   {
-    "name": "\u98df\u8681\u517d",
+    "id": 68,
+    "name": "小布石",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h6ghg54o4ej30n00aot8v_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h6ghg54o4ej30n00aot8v_02.png?raw=true"
   },
   {
-    "name": "\u97f3\u901f\u72ac",
+    "id": 69,
+    "name": "玛雅之星",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h9khzpti2oj30n00aomy5_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h9khzpti2oj30n00aomy5_01.png?raw=true"
   },
   {
-    "name": "\u6ce2\u6ce2\u62c9",
+    "id": 70,
+    "name": "玛雅石像鬼",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h9khzpti2oj30n00aomy5_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h9khzpti2oj30n00aomy5_02.png?raw=true"
   },
   {
-    "name": "\u6c34\u7075",
+    "id": 71,
+    "name": "地鼠",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h9khzq6oppj30n00aojrt_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h9khzq6oppj30n00aojrt_01.png?raw=true"
   },
   {
-    "name": "\u706b\u795e",
+    "id": 72,
+    "name": "玛雅",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h9khzq6oppj30n00aojrt_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h9khzq6oppj30n00aojrt_02.png?raw=true"
   },
   {
-    "name": "\u51b0\u864e\u5b9d\u5b9d",
+    "id": 73,
+    "name": "伏地兽",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h9yh1xxpe7j30n00aodg7_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h9yh1xxpe7j30n00aodg7_01.png?raw=true"
   },
   {
-    "name": "\u51b0\u6676\u5e7c\u864e",
+    "id": 74,
+    "name": "食蚁兽",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1h9yh1xxpe7j30n00aodg7_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1h9yh1xxpe7j30n00aodg7_02.png?raw=true"
   },
   {
-    "name": "\u8fea\u83ab",
+    "id": 75,
+    "name": "迪莫",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heakxal2zlj30n00aoaag_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heakxal2zlj30n00aoaag_01.png?raw=true"
   },
   {
-    "name": "\u6c34\u84dd\u84dd",
+    "id": 76,
+    "name": "水蓝蓝",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heakxal2zlj30n00aoaag_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heakxal2zlj30n00aoaag_02.png?raw=true"
   },
   {
-    "name": "\u591a\u591a",
+    "id": 77,
+    "name": "多多",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heakxs3yd5j30n00ao3yu_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heakxs3yd5j30n00ao3yu_01.png?raw=true"
   },
   {
-    "name": "\u7535\u54a9\u54a9",
+    "id": 78,
+    "name": "电咩咩",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heakxs3yd5j30n00ao3yu_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heakxs3yd5j30n00ao3yu_02.png?raw=true"
   },
   {
-    "name": "\u96ea\u8c46\u4e01",
+    "id": 79,
+    "name": "雪豆丁",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heaky86n3uj30n00aomxm_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heaky86n3uj30n00aomxm_01.png?raw=true"
   },
   {
-    "name": "\u53ef\u7231\u733f",
+    "id": 80,
+    "name": "可爱猿",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heaky86n3uj30n00aomxm_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heaky86n3uj30n00aomxm_02.png?raw=true"
   },
   {
-    "name": "\u5c0f\u7075\u83c7",
+    "id": 81,
+    "name": "小灵菇",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heakysby01j30n00aoaaf_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heakysby01j30n00aoaaf_01.png?raw=true"
   },
   {
-    "name": "\u5316\u8776",
+    "id": 82,
+    "name": "化蝶",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heakysby01j30n00aoaaf_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heakysby01j30n00aoaaf_02.png?raw=true"
   },
   {
-    "name": "\u5c0f\u661f\u5149",
+    "id": 83,
+    "name": "小独角兽",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal14xi7nj30n00ao74q_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal14xi7nj30n00ao74q_01.png?raw=true"
   },
   {
-    "name": "\u5c0f\u72ee\u9e6b2",
+    "id": 84,
+    "name": "白金独角兽",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
-    "hasOtherConcept": false,
+    "hasOtherConcept": true,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal14xi7nj30n00ao74q_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal14xi7nj30n00ao74q_02.png?raw=true"
   },
   {
-    "name": "\u706b\u7fbd",
+    "id": 85,
+    "name": "圣光火娃进化型",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal24ndjyj30n00aoaah_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal24ndjyj30n00aoaah_02.png?raw=true"
   },
   {
-    "name": "\u767d\u91d1\u72ec\u89d2\u517d2",
+    "id": 86,
+    "name": "小星光",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal5snxn4j30n00aowev_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal5snxn4j30n00aowev_01.png?raw=true"
   },
   {
-    "name": "\u5c0f\u5149",
+    "id": 87,
+    "name": "小狮鹫2",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
-    "hasOtherConcept": false,
+    "hasOtherConcept": true,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal5snxn4j30n00aowev_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal5snxn4j30n00aowev_02.png?raw=true"
   },
   {
-    "name": "\u62b1\u6795\u677e\u9f20",
+    "id": 88,
+    "name": "火羽",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal8b735bj30n00aot9c_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal8b735bj30n00aot9c_01.png?raw=true"
   },
   {
-    "name": "\u5408\u683c\u5fa1\u5b88",
+    "id": 89,
+    "name": "白金独角兽2",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
-    "hasOtherConcept": false,
+    "hasOtherConcept": true,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal8b735bj30n00aot9c_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal8b735bj30n00aot9c_02.png?raw=true"
   },
   {
-    "name": "\u4f18\u79c0\u5fa1\u5b88",
+    "id": 90,
+    "name": "小光",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal8kad41j30n00aoglz_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal8kad41j30n00aoglz_01.png?raw=true"
   },
   {
-    "name": "\u5c0f\u591c",
+    "id": 91,
+    "name": "抱枕松鼠",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal8kad41j30n00aoglz_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal8kad41j30n00aoglz_02.png?raw=true"
   },
   {
-    "name": "\u5e03\u9c81\u65af",
+    "id": 92,
+    "name": "合格御守",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal8u3259j30n00ao74y_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal8u3259j30n00ao74y_01.png?raw=true"
   },
   {
-    "name": "\u5c0f\u72ec\u89d2\u517d",
+    "id": 93,
+    "name": "优秀御守",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal8u3259j30n00ao74y_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal8u3259j30n00ao74y_02.png?raw=true"
   },
   {
-    "name": "\u767d\u91d1\u72ec\u89d2\u517d",
+    "id": 94,
+    "name": "满分御守",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal907s51j30n00aoq3c_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal907s51j30n00aoq3c_01.png?raw=true"
   },
   {
-    "name": "\u5723\u5149\u706b\u5a03\u8fdb\u5316\u578b",
+    "id": 95,
+    "name": "小夜",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal9bycn7j30n00ao74o_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal9bycn7j30n00ao74o_01.png?raw=true"
   },
   {
-    "name": "\u6ee1\u5206\u5fa1\u5b88",
+    "id": 96,
+    "name": "布鲁斯",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1heal9bycn7j30n00ao74o_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1heal9bycn7j30n00ao74o_02.png?raw=true"
   },
   {
-    "name": "\u5c0f\u7530\u7530",
+    "id": 97,
+    "name": "小田田",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healc7qk9lj30n00aoaae_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healc7qk9lj30n00aoaae_01.png?raw=true"
   },
   {
-    "name": "\u6d77\u87ba\u59d1\u5a18",
+    "id": 98,
+    "name": "海螺姑娘",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healc7qk9lj30n00aoaae_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healc7qk9lj30n00aoaae_02.png?raw=true"
   },
   {
-    "name": "\u5361\u6d1b\u5c14",
+    "id": 99,
+    "name": "卡洛尔",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healcgkkiej30n00aomxr_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healcgkkiej30n00aomxr_01.png?raw=true"
   },
   {
-    "name": "\u8d85\u80fd\u963f\u5e03",
+    "id": 100,
+    "name": "超能阿布",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healcgkkiej30n00aomxr_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healcgkkiej30n00aomxr_02.png?raw=true"
   },
   {
-    "name": "\u5e7d\u7075\u7f8a",
+    "id": 101,
+    "name": "幽灵羊",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healdcrkeqj30n00aot90_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healdcrkeqj30n00aot90_01.png?raw=true"
   },
   {
-    "name": "\u84dd\u7f9a\u7f8a",
+    "id": 102,
+    "name": "蓝羚羊",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healdcrkeqj30n00aot90_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healdcrkeqj30n00aot90_02.png?raw=true"
   },
   {
-    "name": "\u5f2f\u5634\u517d",
+    "id": 103,
+    "name": "弯嘴兽",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healddbfc0j30n00aogm6_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healddbfc0j30n00aogm6_01.png?raw=true"
   },
   {
-    "name": "\u9b3c\u9b45\u7f9a\u7f8a",
+    "id": 104,
+    "name": "鬼魅羚羊",
     "isNew": false,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healddbfc0j30n00aogm6_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healddbfc0j30n00aogm6_02.png?raw=true"
   },
   {
-    "name": "\u5c0f\u6625\u5154",
-    "isNew": false,
-    "isOriginal": false,
+    "id": 105,
+    "name": "小春兔",
+    "isNew": true,
+    "isOriginal": true,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healfjy0vgj30n00ao74m_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healfjy0vgj30n00ao74m_01.png?raw=true"
   },
   {
-    "name": "\u6625\u5154\u8fdb\u5316\u578b",
-    "isNew": false,
-    "isOriginal": false,
+    "id": 106,
+    "name": "春兔进化型",
+    "isNew": true,
+    "isOriginal": true,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healfjy0vgj30n00ao74m_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healfjy0vgj30n00ao74m_02.png?raw=true"
   },
   {
-    "name": "\u539f\u521b\u8349\u8725\u8734",
-    "isNew": false,
-    "isOriginal": false,
+    "id": 107,
+    "name": "原创草蜥蜴",
+    "isNew": true,
+    "isOriginal": true,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healgnororj30n00ao3z2_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healgnororj30n00ao3z2_01.png?raw=true"
   },
   {
-    "name": "\u539f\u521b\u9b3c\u6811\u6869",
-    "isNew": false,
+    "id": 108,
+    "name": "原创鬼树桩",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healgnororj30n00ao3z2_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healgnororj30n00ao3z2_02.png?raw=true"
   },
   {
-    "name": "\u539f\u521b\u7cbe\u70755",
-    "isNew": false,
+    "id": 109,
+    "name": "原创精灵5",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healgnzpwej30n00aojrr_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healgnzpwej30n00aojrr_01.png?raw=true"
   },
   {
-    "name": "\u539f\u521b\u7cbe\u70756",
-    "isNew": false,
+    "id": 110,
+    "name": "原创精灵6",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healgnzpwej30n00aojrr_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healgnzpwej30n00aojrr_02.png?raw=true"
   },
   {
-    "name": "\u539f\u521b\u7cbe\u70757",
-    "isNew": false,
+    "id": 111,
+    "name": "原创精灵7",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healgob7qyj30n00aomxf_01.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healgob7qyj30n00aomxf_01.png?raw=true"
   },
   {
-    "name": "\u539f\u521b\u7cbe\u70758",
-    "isNew": false,
+    "id": 112,
+    "name": "原创精灵8",
+    "isNew": true,
     "isOriginal": false,
     "hasOtherForm": false,
     "hasOtherConcept": false,
     "type": null,
-    "picUrl": "007Q8cZ0ly1healgob7qyj30n00aomxf_02.png"
+    "picUrl": "https://github.com/jayther2020/assets/blob/master/1154503T935/pet-list/007Q8cZ0ly1healgob7qyj30n00aomxf_02.png?raw=true"
   }
 ]
